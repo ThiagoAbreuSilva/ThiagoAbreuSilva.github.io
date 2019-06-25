@@ -1,0 +1,23 @@
+
+body {
+    background-color: #DDDD00;
+}
+
+h1 {
+    font-family: Garamond, "Times New Roman", serif;
+    font-size: 2.5em;
+    font-weight: bold;
+    color: hsla(45, 77%, 17%, 0.849);
+}
+
+span {
+
+    font-family: Garamond, "Times New Roman", serif;
+    font-size: 1.6em;
+    color: hsla(45, 77%, 17%, 0.849);
+
+}
+
+h2 {
+    color: darkred
+}
