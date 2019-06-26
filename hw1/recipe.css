@@ -1,0 +1,66 @@
+/*
+
+    Student Name : Thiago Abreu da Silva
+    Student ID : 986877    
+    Homework W1D3 - Recipe
+ 
+*/
+
+h1, h2, h3, h4, h5, h6 {
+
+    color: #A4A400  ;
+    background-color: #F0F0F0;
+    font-family: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+    text-align: left;
+    font-size: 18pt;
+    font-weight: normal;
+    text-decoration: underline;
+
+}
+
+h1 {
+
+    text-align: center;
+    font-size: 22pt;
+    font-weight: bold;
+
+}
+
+body{
+
+    background-color: #FFFFFF;
+    color: #404040;
+    /* color: #b82424; */
+    font-size: 11pt;
+    font-family: Georgia, Garamond, serif; 
+
+    background-image: url(/hw1/images/silverware.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+
+    max-width: 1024px;
+    margin: auto;
+
+}
+
+a{
+    color: #A4A400;
+}
+
+pre{
+
+    font-family: monospace; 
+
+}
+
+blockquote {
+    /* position: relative;
+    left: 30px; */
+    text-align: left;
+    background-color: rgba(241, 241, 100,0.4);
+    margin: 0;
+    padding: 0;
+    font-style: italic;
+    margin: 3em
+    /* border: 3px solid #73AD21; */
+  }
