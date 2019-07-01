@@ -157,7 +157,8 @@ h1{
     /* border-radius: 20px 0 0 0; */
     z-index: -1;
     /* font: 48pt red bold font; */
-    font: red bold;
+    font: bold;
+    color: red;
     /* font: 4.8pt red bold font; */
     /* width: 537px; */
 
